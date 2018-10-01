@@ -1,0 +1,5 @@
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\Visual Studio\Tugas2PLjt\Tugas2Pljt\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\Visual Studio\Tugas2PLjt\Tugas2Pljt\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\Visual Studio\Tugas2PLjt\Tugas2Pljt\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\Visual Studio\Tugas2PLjt\Tugas2Pljt\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\Visual Studio\Tugas2PLjt\Tugas2Pljt\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
